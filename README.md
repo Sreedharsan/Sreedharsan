@@ -19,3 +19,12 @@
 ### :man_technologist: About Me :
 I am a Computer Science Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Student
 
+- :telescope: I’m currently pursuing my Bachelor's Degree in Engineering
+
+- :seedling: Exploring my technical skills.
+
+- :zap: In my free time, I solve problems on coding platform and read tech blogs.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sreedharsan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sreedharsan-p-k-6a7502219/)
+
+---
