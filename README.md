@@ -16,8 +16,6 @@
   </h1>
 </div>
 
-
-
-
-### Hi there 👋
+### :man_technologist: About Me :
+I am a Computer Science Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Student
 
